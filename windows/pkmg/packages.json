@@ -1,5 +1,5 @@
 {
-    "url": "https://cdn.akirakaito.io.vn/windows/pkmg/packages.json",
+    "url": "https://cdn.akirakaito.io.vn/windows/pkmg",
     "packages": [
         {
             "name": "Sample_Package",
