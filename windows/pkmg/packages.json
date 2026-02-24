@@ -1,0 +1,11 @@
+{
+    "url": "https://cdn.akirakaito.io.vn/windows/pkmg/packages.json",
+    "packages": [
+        {
+            "name": "Sample_Package",
+            "description": "Sample_Package", 
+            "version": "1.0",
+            "command": "python Sample_Package_Setup.py"
+        }
+    ]
+}
